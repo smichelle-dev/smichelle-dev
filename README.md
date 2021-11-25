@@ -1,6 +1,6 @@
 Oi, eu sou a Michelle.
 
-- 🔭 DEV em construção.
+- 🔭 DEV em formação.
 - 🌱 Estou estudando JavaScript, HTML5 e CSS.
 - 😄 Pronouns: ela/dela.
 
