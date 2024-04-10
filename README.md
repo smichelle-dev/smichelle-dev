@@ -9,7 +9,7 @@ Estudo programação ha 3 anos e desde venho aperfeiçoando meus conhecimentos f
 * 🌍  I'm based in Brasília
 * 🖥️  See my portfolio at [https://www.linkedin.com/in/michelles-santos/](http://https://www.linkedin.com/in/michelles-santos/)
 * ✉️  You can contact me at [micksantos10@gmail.com](mailto:micksantos10@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning c#
 * ⚡  Nada no mundo pode substituir a persistência.
 
 ### Skills
